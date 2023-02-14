@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba7d5939e956e44eb89e58f352801bf, type: 3}
+  m_Name: room_boss 0
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: fb767182f4be73b4ebf35b76564d1d1d, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  rooms:
+    DEFAULT: []
+    TBLR: []
+    TB: []
+    LR: []
+    T:
+    - {fileID: 8800959297936890734, guid: 889d7ae8af90ccc4b99d764f66b443dc, type: 3}
+    B:
+    - {fileID: 1231627233701284860, guid: 2752d8aafb4cf9d4297d6daec55744d2, type: 3}
+    L:
+    - {fileID: 760627247074240862, guid: 2c294697f18492f49a21e1e3ef72696b, type: 3}
+    R:
+    - {fileID: 936830403515806347, guid: 5d815dd44f1ef97479e88bb15a0a1069, type: 3}
+    TL: []
+    TR: []
+    BL: []
+    BR: []
+    TBL: []
+    TBR: []
+    TLR: []
+    BLR: []

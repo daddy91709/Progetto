@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292743690543",
+    "project_id": "swordungeon",
+    "storage_bucket": "swordungeon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292743690543:android:e39f74da94ef45073109da",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SwordUngeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292743690543-fc03seon7d5anbag0ofpvcnm3o60gmou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxIPg93wjxqzYxj4v-znKjUj2ErLjOp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292743690543-fc03seon7d5anbag0ofpvcnm3o60gmou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

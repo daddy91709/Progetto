@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c39e9cd05fe8f4468a0d1d11fc70c5f, type: 3}
+  m_Name: New Db Personaggi
+  m_EditorClassIdentifier: 
+  characters:
+  - sprite: {fileID: 1037293568942500303, guid: 32bd01492f6067842a2cf0db1293828b, type: 3}
+    prefab: {fileID: 8911590792861906838, guid: 2c74a36acbc58b748983ef43b879cd88, type: 3}
+    hp: 15
+    atk: 1.5
+    spd: 1
+  - sprite: {fileID: -2042065345857880647, guid: 43b6ea12df294c041bc5440e076a65e7, type: 3}
+    prefab: {fileID: 4770688688835882337, guid: e07550b5591f4b241b5f1046c1343365, type: 3}
+    hp: 10
+    atk: 2
+    spd: 1
+  - sprite: {fileID: 211680859666921420, guid: c1b9b1191d7fcea4d93a8bd16aadcbc5, type: 3}
+    prefab: {fileID: 5403155841869176095, guid: 94e2207f093aae2449b6c45756582417, type: 3}
+    hp: 10
+    atk: 1
+    spd: 1.5

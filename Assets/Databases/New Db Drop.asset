@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffac9603064ef3249aec035ffa72538d, type: 3}
+  m_Name: New Db Drop
+  m_EditorClassIdentifier: 
+  drops:
+  - drop: {fileID: 1234026126884133516, guid: d928aede94e42fa4ab6fdfe4eab555b5, type: 3}
+    rarity: 80
+  - drop: {fileID: 3631071359590694058, guid: ad3684ffdc6e7cb43ae7c4e3eb13f6e6, type: 3}
+    rarity: 60
+  - drop: {fileID: 264618007703757167, guid: 3acca229c22e60f45aa2ff54297a1833, type: 3}
+    rarity: 90
